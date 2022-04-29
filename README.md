@@ -1,2 +1,2 @@
 # 3073-Business-Requiremtns-Specification
-This project exhibits a Blazor app, integrating OOP and HTML skills that I learned in Programming II. In this project, I am creating a website that features a couple of tab accessories. This Blazor app is a personal website that I am developing about me.
+This Project exhbits a Business Requirements Specification document about a company looking to implement a mobile application. This document integrates the critical thinking, analysis and requirements skills I learned in the Requirements Engineering and Analysis course. In this project, i described the the business overview of a company and how they plan to implement a mobile app.
