@@ -1,2 +1,2 @@
-# 3073-Business-Requiremtns-Specification
+# 3073-Business-Requirements-Specification
 This project exhibits a Business Requirements Specification document about a company looking to implement a mobile application. This document integrates the critical thinking, analysis and requirements skills I learned in the Requirements Engineering and Analysis course. In this project, I described the business overview of a retail company and how they plan to use a mobile app to improve.
